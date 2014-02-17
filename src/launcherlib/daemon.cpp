@@ -38,7 +38,7 @@
 #include <stdexcept>
 #include <fstream>
 #include <sstream>
-#include <stdlib.h>
+#include <unistd.h>
 #include <systemd/sd-daemon.h>
 
 #include "coverage.h"
